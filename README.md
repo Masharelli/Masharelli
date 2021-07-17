@@ -8,7 +8,8 @@
 ## It's Masharelli here 👋
 I am Student at Tecnologico de Monterrey and intern at IBM in ODS DYNA Squad, I'm passionate of web development.
 
-- 👀 Learning and Developing Web stuff and DevOps.
+- 👀 Learning and Developing Web stuff.
+- 👷🏻‍♂️ Trying to learn DevOps
 - 📖 Reading a lot of books about Startups.
 
 ## Things that I execute in free time ⚡ -  
