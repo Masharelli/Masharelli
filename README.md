@@ -12,7 +12,7 @@ I am Student at Tecnologico de Monterrey and intern at IBM in ODS DYNA Squad, I'
 - 👷🏻‍♂️ Trying to learn DevOps
 - 📖 Reading a lot of books about Startups.
 
-## Things that I execute in free time ⚡ -  
+## Things that I execute in free time -  
   - Play a lot of Videogames.💻
   - Listening music while I'm working or studying.🎧
   - Love Movies. 🎬
