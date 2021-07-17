@@ -3,7 +3,7 @@
 
 <iframe src="https://giphy.com/embed/hrRJ41JB2zlgZiYcCw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/memecandy-hrRJ41JB2zlgZiYcCw">via GIPHY</a></p>
 
- <img align="right" alt="GIF" src="https://giphy.com/embed/hrRJ41JB2zlgZiYcCw" />
+ <img align="right" alt="GIF" src="https://giphy.com/gifs/memecandy-hrRJ41JB2zlgZiYcCw" />
   
 
 
