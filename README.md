@@ -25,11 +25,6 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 
 </br>
 
-## My Portfolio and Work 👀 -
-### 1.[Personal Web](http://prathameshgiri.me/) 👦 </br>
-### 2.[Portfolio](https://sites.google.com/view/prathamesh-giri/home) ✨
-</br>
-
 ## Social Hangouts 💬 -
 
 <a href="https://twitter.com/HMasharelli">
