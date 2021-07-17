@@ -5,18 +5,16 @@
 
 
 ## It's Masharelli here 👋
-I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Developer. I love experimenting with new technologies and building small projects.
+I am Student at Tecnologico de Monterrey and intern at IBM in ODS DYNA Squad, I'm passionate of web development.
 
-- ☀️ Learning and Developing Machine Learning based projects in Python.
-- ✍️ Writing tech blog posts over Internet.
-- ➿ Contributing Open Source Projects.
+- 👀 Learning and Developing Web stuff and DevOps.
+- 📖 Reading a lot of books about Startups.
 
 ## Things that I execute in free time ⚡ -  
-  - In mean time, I create visual and artistic UI/UX on Adobe Xd.🌱
-  - While Coding, Listening Music and developing useful code.⭐️
-  - Just loved to Explore new Tech Stacks.💻
-  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
-  - Always Willing to help (**Altruistic**). ✋ 
+  - Play a lot of Videogames.💻
+  - Listening music while I'm working or studying.🎧
+  - Love Movies. 🎬
+  - E-Sport follower. 👾 
 
 
 ## My GitHub Stats(Only Public Contributions 😑) -
