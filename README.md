@@ -1,10 +1,10 @@
-<h2>Hello There General Masharelli...🎬</h2>
+<h2>Hello There ...🧑🏻‍💻</h2>
 
 
-<img width="291" alt="masharelli" style = "align: center;" src="https://user-images.githubusercontent.com/21081843/126050653-79ac4d49-5ecd-4ee4-9861-0582c98f3222.png">
+<img width="291" alt="masharelli" align = "center" src="https://user-images.githubusercontent.com/21081843/126050653-79ac4d49-5ecd-4ee4-9861-0582c98f3222.png">
 
 
-## It's Prathamesh Giri here 👋
+## It's Masharelli here 👋
 I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Developer. I love experimenting with new technologies and building small projects.
 
 - ☀️ Learning and Developing Machine Learning based projects in Python.
