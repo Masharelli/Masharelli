@@ -21,7 +21,7 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 
 ## My GitHub Stats(Only Public Contributions 😑) -
   
-  ![Github Stats By Prathamesh]([![Masharelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=masharelli)](https://github.com/anuraghazra/github-readme-stats)
+  ([![Masharelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=masharelli)](https://github.com/anuraghazra/github-readme-stats)
 )  
 </br>
 
