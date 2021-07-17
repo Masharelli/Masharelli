@@ -1,7 +1,7 @@
 <h2>Hello There ...🧑🏻‍💻</h2>
 
 
-<img width="291" alt="masharelli" align = "center" src="https://user-images.githubusercontent.com/21081843/126050653-79ac4d49-5ecd-4ee4-9861-0582c98f3222.png">
+<img width="291" alt="masharelli" align="right" src="https://user-images.githubusercontent.com/21081843/126050653-79ac4d49-5ecd-4ee4-9861-0582c98f3222.png">
 
 
 ## It's Masharelli here 👋
