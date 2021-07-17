@@ -21,8 +21,8 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 
 ## My GitHub Stats(Only Public Contributions 😑) -
   
-  ([![Masharelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=masharelli)](https://github.com/anuraghazra/github-readme-stats)
-)  
+  [![Masharelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=masharelli)](https://github.com/anuraghazra/github-readme-stats)
+
 </br>
 
 ## My Portfolio and Work 👀 -
@@ -32,5 +32,5 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 
 ## Social Hangouts 💬 -
 
-<a href="https://twitter.com/_Autodidactic">
-  <img align="left" alt="Prathamesh Giri| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/HMasharelli">
+  <img align="left" alt=Masharelli| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
