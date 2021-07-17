@@ -1,7 +1,7 @@
 <h2>Hello There ...🧑🏻‍💻</h2>
 
 
- <img align="right" alt="GIF" src="https://giphy.com/gifs/memecandy-hrRJ41JB2zlgZiYcCw" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized-large.gif" />
   
 
 
