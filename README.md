@@ -6,7 +6,7 @@
 
 
 ## It's Masharelli here 👋
-I am Student at Tecnologico de Monterrey and intern at IBM in ODS DYNA Squad, I'm passionate of web development.
+I am Student at Tecnologico de Monterrey and Full-time Application Developer at IBM, I'm passionate of web development and now Django appasionate.
 
 - 👀 Learning and Developing Web stuff.
 - 👷🏻‍♂️ Trying to learn DevOps
