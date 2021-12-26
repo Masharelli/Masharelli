@@ -8,8 +8,8 @@
 ## It's Masharelli here 👋
 I am Student at Tecnologico de Monterrey and Full-time Application Developer at IBM, I'm passionate of web development and now Django appasionate.
 
-- 👀 Learning and Developing Web stuff.
-- 👷🏻‍♂️ Trying to learn DevOps
+- 👀 Learning and Developing with a lot of python.
+- 👷🏻‍♂️ Trying to learn about API's and Spark
 - 📖 Reading a lot of books about Startups.
 
 ## Things that I execute in free time -  
