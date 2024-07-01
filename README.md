@@ -8,12 +8,12 @@
 ## It's Masharelli here 👋
 👋 Hi there! I'm a passionate Big Data Engineer with a keen interest in evolving my career in the realms of Big Data and Data Engineering. With a robust background in managing and analyzing vast datasets, I'm dedicated to leveraging data to drive insightful decision-making and strategic growth.
 
-About Me
-💼 Current Role: Big Data Engineer
-📈 Career Goals: To expand my expertise and take on new challenges in Data Engineering
-🔧 Skills: Hadoop, Spark, Kafka, Python, SQL, ETL, Data Warehousing, Cloud Computing (AWS, Azure)
-📚 Learning: Continuously enhancing my skills in advanced data analytics, machine learning, and cloud technologies
-🧠 Passionate About: Turning complex data into actionable insights, optimizing data pipelines, and contributing to data-driven cultures
+## About Me
+- 💼 Current Role: Big Data Engineer
+- 📈 Career Goals: To expand my expertise and take on new challenges in Data Engineering
+- 🔧 Skills: Hadoop, Spark, Kafka, Python, SQL, ETL, Data Warehousing, Cloud Computing (AWS, Azure)
+- 📚 Learning: Continuously enhancing my skills in advanced data analytics, machine learning, and cloud technologies
+- 🧠 Passionate About: Turning complex data into actionable insights, optimizing data pipelines, and contributing to data-driven cultures
 Let's Connect!
 
 I'm always open to new opportunities, collaborations, and discussions about all things data. Feel free to reach out!
