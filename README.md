@@ -6,11 +6,17 @@
 
 
 ## It's Masharelli here 👋
-I am Student at Tecnologico de Monterrey and Full-time Application Developer at IBM, I'm passionate of web development and now Django appasionate.
+👋 Hi there! I'm a passionate Big Data Engineer with a keen interest in evolving my career in the realms of Big Data and Data Engineering. With a robust background in managing and analyzing vast datasets, I'm dedicated to leveraging data to drive insightful decision-making and strategic growth.
 
-- 👀 Learning and Developing with a lot of python.
-- 👷🏻‍♂️ Trying to learn about API's and Spark
-- 📖 Reading a lot of books about Startups.
+About Me
+💼 Current Role: Big Data Engineer
+📈 Career Goals: To expand my expertise and take on new challenges in Data Engineering
+🔧 Skills: Hadoop, Spark, Kafka, Python, SQL, ETL, Data Warehousing, Cloud Computing (AWS, Azure)
+📚 Learning: Continuously enhancing my skills in advanced data analytics, machine learning, and cloud technologies
+🧠 Passionate About: Turning complex data into actionable insights, optimizing data pipelines, and contributing to data-driven cultures
+Let's Connect!
+
+I'm always open to new opportunities, collaborations, and discussions about all things data. Feel free to reach out!
 
 ## Things that I execute in free time -  
   - Play a lot of Videogames.💻
@@ -25,7 +31,8 @@ I am Student at Tecnologico de Monterrey and Full-time Application Developer at 
 
 </br>
 
-## Social Hangouts 💬 -
+Let's Connect!
+I'm always open to new opportunities, collaborations, and discussions about all things data. Feel free to reach out!
 
-<a href="https://twitter.com/HMasharelli">
-  <img align="left" alt=Masharelli| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+📧 Email: [hrocha1997@gmail.com]
+🔗 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/hugo-rocha-a210a2148/)]
