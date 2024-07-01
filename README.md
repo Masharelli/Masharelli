@@ -24,6 +24,11 @@ I'm always open to new opportunities, collaborations, and discussions about all 
   - Love Movies. 🎬
   - E-Sport follower. 👾 
 
+## Let's Connect!
+I'm always open to new opportunities, collaborations, and discussions about all things data. Feel free to reach out!
+
+📧 Email: [hrocha1997@gmail.com]
+🔗 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/hugo-rocha-a210a2148/)]
 
 ## My GitHub Stats(Only Public Contributions 😑) -
   
@@ -31,8 +36,3 @@ I'm always open to new opportunities, collaborations, and discussions about all 
 
 </br>
 
-Let's Connect!
-I'm always open to new opportunities, collaborations, and discussions about all things data. Feel free to reach out!
-
-📧 Email: [hrocha1997@gmail.com]
-🔗 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/hugo-rocha-a210a2148/)]
